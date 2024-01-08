@@ -32,3 +32,7 @@ console.log(str8.toLowerCase(str8))
 // lowercase to uppercase
 let str9 = 'jai bajrangbali'
 console.log(str9.toUpperCase(str9))
+
+let str10 = 'vande matram'
+let str11 = str10.split('')
+console.log(str11)
